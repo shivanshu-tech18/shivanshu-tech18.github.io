@@ -417,7 +417,7 @@
         </div>
       </div>
     </section><!-- End Portfolio Section -->
-    
+
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="paralax-mf footer-paralax bg-image sect-mt4 route"
@@ -436,7 +436,7 @@
                       </h5>
                     </div>
                     <div>
-                      <form action="https://formspree.io/f/moqykkpd" method="POST" class="">
+                      <form id="formJI">
                         <div class="row">
                           <div class="col-md-12 mb-3">
                             <div class="form-group">
@@ -458,7 +458,7 @@
                           </div>
                           <div class="col-md-12">
                             <div class="form-group">
-                              <textarea class="form-control" name="message" rows="5" placeholder="Message"
+                              <textarea class="form-control" rows="5" name="message" id="message" placeholder="Message"
                                 required></textarea>
                             </div>
                           </div>
@@ -482,7 +482,7 @@
                     <div class="more-info">
                       <p class="lead">
                         Feel free to contact me , i will definitely reply your message... And you can also contact with me
-                        on given social links like Facebook , Instagram , Twitter or you can E-mail or you can contact
+                        on given social links like Facebook , Instagram , Twitter , E-mail or you can contact
                         me on Whatsapp at the given number...
                       </p>
                       <ul class="list-ico">
@@ -553,8 +553,15 @@
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/typed.js/typed.min.js"></script>
 
+  <!-- Firebase imports -->
+  <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-database.js"></script>
+
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+
+  <script src="assets/js/SendData.js"></script>
+  <script src="assets/js/Config.js"></script>
 
 </body>
 
