@@ -4,7 +4,7 @@
 
 ## Demo
 
-![Preview](https://shivanshu-tech18.github.io/assets/img/shivanshu.jpg)
+![Preview](https://shivanshu-tech18.github.io/assets/img/App_Preview.png)
 
 
 # Hi, I'm Shivanshu Karn! 👋
@@ -15,7 +15,7 @@ I'm a Web developer , HTML developer , JavaScript developer , Python developer
 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript,cPython, React JS, Node JS, Git, Firebase
+HTML, CSS, JavaScript, Python, React JS, Node JS, Git, Firebase, etc
 
 
 ## 🔗 Links
