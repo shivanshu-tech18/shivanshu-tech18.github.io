@@ -1,7 +1,7 @@
 let msgDiv = document.getElementById('msgDiv')
 const password = prompt('Enter admin Password')
 
-if(password === 'sklopr'){
+if(password === 'sklvpr'){
     const fetchData = db.ref('Submissions/');
     fetchData.on('child_added', function (snapshot){
         const data = snapshot.val();
