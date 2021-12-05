@@ -1,5 +1,3 @@
-// console.log("JS included")
-
 const formJI = document.getElementById('formJI');
 const id = Date.now();
 let namee = document.getElementById('name');
