@@ -5,12 +5,9 @@ window.onload = () => {
         const portItem = document.getElementById('portItem')
         const Print = `<div class="col-md-4">
                 <div class="work-box">
-                  <a href="${items.WebLink}" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox">
-                    <div class="work-img">
+                    <div class="work-img" style="cursor: pointer;">
                       <img src="${items.Image}" alt="" class="img-fluid">
                     </div>
-                  </a>
                   <div class="work-content">
                     <div class="row">
                       <div class="col-sm-8">

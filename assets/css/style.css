@@ -1437,3 +1437,30 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+
+/* Styles for customising default webkit scrollbar */
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #333;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: #0078ff;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0d6efd;
+}
+
+
+/* Customising Default text selection style */
+::selection {
+  color: #fff;
+  background: #333;
+}
