@@ -1,72 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://shivanshu-tech18.github.io/</loc>
-  <lastmod>2022-02-04T09:16:30+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://shivanshu-tech18.github.io/blog/</loc>
-  <lastmod>2022-01-23T14:26:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shivanshu-tech18.github.io/covid.19</loc>
-  <lastmod>2022-02-04T09:16:30+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://shivanshu-tech18.github.io/calculator</loc>
-  <lastmod>2022-02-04T09:16:30+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shivanshu-tech18.github.io/TicTacToe</loc>
-  <lastmod>2022-02-04T09:16:30+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shivanshu-tech18.github.io/Firebase-chat-app/</loc>
-  <lastmod>2022-02-04T09:16:30+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shivanshu-tech18.github.io/Clock/</loc>
-  <lastmod>2022-02-04T09:16:30+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shivanshu-tech18.github.io/corona-virus-tracker/</loc>
-  <lastmod>2022-02-04T09:16:30+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shivanshu-tech18.github.io/Indian-Flag</loc>
-  <lastmod>2022-02-04T09:16:30+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shivanshu-tech18.github.io/car-racing</loc>
-  <lastmod>2022-02-04T09:16:30+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shivanshu-tech18.github.io/area-perimeter-calculator/</loc>
-  <lastmod>2022-02-04T09:16:30+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://shivanshu-tech18.github.io/eWeather/</loc>
-  <lastmod>2022-02-04T09:16:30+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://shivanshu-tech18.github.io/</loc><lastmod>2022-02-04T09:16:30+00:00</lastmod><priority>1.00</priority></url>
+<url><loc>https://shivanshu-tech18.github.io/blog/</loc><lastmod>2022-01-23T14:26:15+00:00</lastmod><priority>0.80</priority></url>
+<url><loc>https://shivanshu-tech18.github.io/covid.19</loc><lastmod>2022-02-04T09:16:30+00:00</lastmod><priority>0.80</priority></url>
+<url><loc>https://shivanshu-tech18.github.io/calculator</loc><lastmod>2022-02-04T09:16:30+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>https://shivanshu-tech18.github.io/TicTacToe</loc><lastmod>2022-02-04T09:16:30+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>https://shivanshu-tech18.github.io/Firebase-chat-app/</loc><lastmod>2022-02-04T09:16:30+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>https://shivanshu-tech18.github.io/Clock/</loc><lastmod>2022-02-04T09:16:30+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>https://shivanshu-tech18.github.io/corona-virus-tracker/</loc><lastmod>2022-02-04T09:16:30+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>https://shivanshu-tech18.github.io/Indian-Flag</loc><lastmod>2022-02-04T09:16:30+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>https://shivanshu-tech18.github.io/car-racing</loc><lastmod>2022-02-04T09:16:30+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>https://shivanshu-tech18.github.io/area-perimeter-calculator/</loc><lastmod>2022-02-04T09:16:30+00:00</lastmod><priority>0.64</priority></url>
+<url><loc>https://shivanshu-tech18.github.io/eWeather/</loc><lastmod>2022-02-04T09:16:30+00:00</lastmod><priority>0.64</priority></url>
 </urlset>
